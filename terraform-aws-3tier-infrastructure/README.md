@@ -36,7 +36,7 @@ The objective of this project is to demonstrate Infrastructure as Code (IaC), AW
                                             ▼
                                       RDS MySQL
 
-<img width="1376" height="768" alt="architecture" src="https://github.com/user-attachments/assets/3f8072c9-aa59-4944-b645-1f1f0a1f7459" />
+<img width="1376" height="768" alt="architecture" src="https://github.com/user-attachments/assets/008ed79b-e7c2-4200-9ae1-4dcc81048070" />
 
 ```
 
@@ -254,15 +254,13 @@ rds_endpoint = terraform-db.xxxxxx.ap-south-1.rds.amazonaws.com
 
 ## Website
 
-Add screenshot showing successful website deployment.
 
-![Website](screenshots/website.png)
+![Website](screenshots/website.png)<img width="914" height="407" alt="07-website-running" src="https://github.com/user-attachments/assets/308db093-91b8-4061-8b1e-05a4d2136d5b" />
+
 
 ---
 
 ## EC2 Instance
-
-Add AWS EC2 console screenshot.
 
 <img width="1270" height="424" alt="05-ec2-running" src="https://github.com/user-attachments/assets/353527a8-cefb-480a-9a88-089a0d776ebe" />
 
@@ -270,15 +268,11 @@ Add AWS EC2 console screenshot.
 
 ## RDS Instance
 
-Add AWS RDS console screenshot.
-
 <img width="1264" height="390" alt="06-rds-available" src="https://github.com/user-attachments/assets/c3533258-b232-4e67-a667-d9986f0c6fc8" />
 
 ---
 
 ## Terraform Apply
-
-Add successful Terraform deployment screenshot.
 
 ![Terraform Apply](screenshots/terraform-apply.png)
 <img width="1046" height="1060" alt="01-terraform-apply-success" src="https://github.com/user-attachments/assets/921dc526-7f11-4bb1-980d-637d0ff7e2ee" />
@@ -320,7 +314,7 @@ Planned improvements:
 
 # Author
 
-Kalyan
+Kalyan Madanna
 
 DevOps Engineer (Aspiring)
 
