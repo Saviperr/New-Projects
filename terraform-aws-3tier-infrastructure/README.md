@@ -36,9 +36,10 @@ The objective of this project is to demonstrate Infrastructure as Code (IaC), AW
                                             ▼
                                       RDS MySQL
 
-<img width="1376" height="768" alt="architecture" src="https://github.com/user-attachments/assets/008ed79b-e7c2-4200-9ae1-4dcc81048070" />
 
 ```
+<img width="1376" height="768" alt="architecture" src="https://github.com/user-attachments/assets/008ed79b-e7c2-4200-9ae1-4dcc81048070" />
+----
 
 ---
 
@@ -195,7 +196,7 @@ terraform-aws-3tier-app/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/terraform-aws-3tier-app.git
+git clone https://github.com/YOUR_USERNAME/terraform-aws-3tier-app.git](https://github.com/Saviperr/New-Projects/tree/main/terraform-aws-3tier-infrastructure)
 
 cd terraform-aws-3tier-app
 ```
