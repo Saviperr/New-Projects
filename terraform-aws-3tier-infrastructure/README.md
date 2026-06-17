@@ -35,6 +35,9 @@ The objective of this project is to demonstrate Infrastructure as Code (IaC), AW
                                             │
                                             ▼
                                       RDS MySQL
+
+<img width="1376" height="768" alt="architecture" src="https://github.com/user-attachments/assets/3f8072c9-aa59-4944-b645-1f1f0a1f7459" />
+
 ```
 
 ---
@@ -261,7 +264,7 @@ Add screenshot showing successful website deployment.
 
 Add AWS EC2 console screenshot.
 
-![EC2](screenshots/ec2.png)
+<img width="1270" height="424" alt="05-ec2-running" src="https://github.com/user-attachments/assets/353527a8-cefb-480a-9a88-089a0d776ebe" />
 
 ---
 
@@ -269,7 +272,7 @@ Add AWS EC2 console screenshot.
 
 Add AWS RDS console screenshot.
 
-![RDS](screenshots/rds.png)
+<img width="1264" height="390" alt="06-rds-available" src="https://github.com/user-attachments/assets/c3533258-b232-4e67-a667-d9986f0c6fc8" />
 
 ---
 
@@ -278,6 +281,8 @@ Add AWS RDS console screenshot.
 Add successful Terraform deployment screenshot.
 
 ![Terraform Apply](screenshots/terraform-apply.png)
+<img width="1046" height="1060" alt="01-terraform-apply-success" src="https://github.com/user-attachments/assets/921dc526-7f11-4bb1-980d-637d0ff7e2ee" />
+
 
 ---
 
